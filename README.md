@@ -156,7 +156,7 @@ Expected AI output:
 6. SQLAlchemy saves or updates records in the database.
 7. React refreshes the interaction history table.
 
-## Video Walkthrough Script
+## Demo Flow
 
 1. Introduce the project as an AI-first CRM HCP Log Interaction module.
 2. Explain the two input modes: structured form and AI chat.
@@ -170,4 +170,4 @@ Expected AI output:
 
 ## Notes
 
-The project uses SQLite by default to make local demo simple. For production, replace `DATABASE_URL` with PostgreSQL or MySQL connection string.
+The project Uses SQLite for local demo. Can be switched to PostgreSQL/MySQL for production. For production, replace `DATABASE_URL` with PostgreSQL or MySQL connection string.
